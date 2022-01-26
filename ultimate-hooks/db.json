@@ -1,0 +1,42 @@
+{
+  "notes": [
+    {
+      "content": "custom-hooks are grat",
+      "id": 1
+    },
+    {
+      "content": "the best featrure ever <3",
+      "id": 2
+    },
+    {
+      "content": "hooks dramatically facilitate my job",
+      "id": 3
+    },
+    {
+      "content": "this is some note for thiri",
+      "id": 4
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "kaltsoon",
+      "number": "045-2323456",
+      "id": 2
+    },
+    {
+      "name": "thirihan",
+      "number": "959-795375879",
+      "id": 3
+    },
+    {
+      "name": "thethan",
+      "number": "098-847327874",
+      "id": 4
+    }
+  ]
+}
